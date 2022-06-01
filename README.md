@@ -7,7 +7,7 @@ Inputs are the caracteristics of the contract and the spot yield curve (one for 
 The forward rate for the period $[T_1,T_2]$ is calculted by the formula 
 $\begin{align*} R_{T_1}(T_2) = \frac{1}{T_2-T_1}\left[ T_2R_0(T_2) - T_1R_0(T_1) \right] \end{align*}$ and the discount factor is calculated as continuous rate $D(t,T)=e^{(T-t)R_t(T)}$
 
-**1 - Bonds**
+**1. Bonds**
 
 **1.1 Caracterisitics**
 
@@ -28,7 +28,7 @@ $\begin{align*} R_{T_1}(T_2) = \frac{1}{T_2-T_1}\left[ T_2R_0(T_2) - T_1R_0(T_1)
 
 You can compute the clean price and the dirty price. You can also compute the actuarial rate and the duration of the bond. The actuarial rate is fine by dichotomy.
 
-**2 - Interest Rate Swap**
+**2. Interest Rate Swap**
 
 **2.1 - Caracteristics**
 
@@ -38,7 +38,7 @@ Same as Bonds. You do not must have the same frequency on the 2 legs.
 
 You can compute the swap rate which is done by dichotomy
 
-**3 Total Return Swap**
+**3. Total Return Swap**
 
 
 
