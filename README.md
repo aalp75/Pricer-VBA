@@ -24,21 +24,21 @@ $\begin{align*} R_{T_1}(T_2) = \frac{1}{T_2-T_1}\left[ T_2R_0(T_2) - T_1R_0(T_1)
 - Convention of day computing (ACT/ACT, ACT/360)
 - Interpolation method of yield curbe (Linear, Quadratic)
 
-**1.2 Features**
+**1.2 Additional Features**
 
 You can compute the clean price and the dirty price. You can also compute the actuarial rate and the duration of the bond. The actuarial rate is fine by dichotomy.
 
-**2 - Interest Rate Swap
+**2 - Interest Rate Swap**
 
 **2.1 - Caracteristics**
 
 Same as Bonds. You do not must have the same frequency on the 2 legs.
 
-**2.2 Features**
+**2.2 Additional Features**
 
 You can compute the swap rate which is done by dichotomy
 
-**3 Total Return Swap
+**3 Total Return Swap**
 
 
 
