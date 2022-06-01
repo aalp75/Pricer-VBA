@@ -1,6 +1,6 @@
 # Pricer-VBA
 
-This is a simple Pricer for Bonds, Interest Rate Swap and Total Return Swap developped in VBA.
+This is a simple pricer for Bonds, Interest Rate Swap and Total Return Swap developped in VBA.
 
 Inputs are the caracteristics of the contract and the spot yield curve (one for discount and one for floating rate).
 
