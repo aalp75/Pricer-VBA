@@ -42,5 +42,5 @@ You can compute the swap rate which is done by dichotomy
 
 Compute the price of a TRS by pricing the premium leg and pricing the Underlying Bonds at 2 differents dates.
 
-![alt text](https://github.com/aalp75/Pricer-VBA/blob/main/Example.pdf)
+![alt text](https://github.com/aalp75/Pricer-VBA/blob/main/Example.png)
 
